@@ -1,0 +1,53 @@
+//META{"name":"ThunderdomeTheme","description":"Thunderdome Theme Made by Klëinëツ0420","author":"Klëinëツ0420","version":"1.0"}*//{}
+@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/scsl.css);
+/* Import any custom fonts here */
+
+
+:root {
+   
+    --background-image: url(https://imgur.com/UptA3RN.jpg);
+
+   
+    --friends-icon: url(https://imgur.com/PgKOSkz.jpg);
+
+   
+    --friends-icon-position: center center;
+
+    
+    --friends-icon-zoom: 125%;
+
+    --main-color: rgb(117,36,51);
+
+   
+    --main-transparency: rgba(0, 0, 0, 0.8);
+
+  
+    --unread-server-animation: rainbow;
+
+   
+    --hover-list-bg-color: rgba(255, 255, 255, .15);
+
+   
+    --border-lines-color: hsla(0,0%,100%,.1);
+
+   
+    --scroll-bar-color: rgba(255,255,255, .15);
+
+    
+    --font-size: 16px;
+
+   
+    --selected-text-voice-color: #dfdfdf;
+
+   
+    --channel-hover-text-color: rgba(255, 255, 255, 0.75);
+
+
+    --unread-text-color: #dcddde;
+
+
+   
+    --user-popup-background: rgba(0, 0, 0, 0.8);
+}
+
+
